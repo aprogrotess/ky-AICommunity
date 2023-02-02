@@ -1,0 +1,12 @@
+{
+  "name": "ky-online-book",
+  "version": "0.0.1 alpha",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev . --host 127.0.0.1",
+    "build": "vuepress build ."
+  },
+  "dependencies": {
+    "vuepress": "^1.9.8"
+  }
+}
