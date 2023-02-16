@@ -46,6 +46,11 @@ module.exports = {
                 title: '常规资料',
                 path: '/common/',
                 sidebarDepth: 2
+            },
+            {
+                title: 'todo',
+                path: '/todo/',
+                sidebarDepth: 2
             }
         ],
 
