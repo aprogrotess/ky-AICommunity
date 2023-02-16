@@ -9,6 +9,9 @@
 - Ai开发的流程(develop/ai)
 - Ai的学习资料整理(common/ai)
 - cmake(C++工程化)资料编写(common/cmake)
+- git工具使用方法(common/git)
+- vim工具使用(common/vim)
+- tmux工具使用(common/tmux)
 
 ## 已经完成的
 
