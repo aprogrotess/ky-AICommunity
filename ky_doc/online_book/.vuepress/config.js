@@ -26,33 +26,36 @@ module.exports = {
 
         // 左侧栏
         displayAllHeaders: true,
-        sidebar: [
-            {
-                title: '软件开发',
-                path: '/develop/',
-                sidebarDepth: 2
-            },
-            {
-                title: '量化投资',
-                path: '/trade/',
-                sidebarDepth: 2
-            },
-            {
-                title: '机器人竞赛',
-                path: '/robot/',
-                sidebarDepth: 2
-            },
-            {
-                title: '常规资料',
-                path: '/common/',
-                sidebarDepth: 2
-            },
-            {
-                title: 'todo',
-                path: '/todo/',
-                sidebarDepth: 2
-            }
-        ],
+
+        // 为不同的路由配置具体的显示信息
+        sidebar: require('./route/index'),
+        // sidebar: [
+        //     {
+        //         title: '软件开发',
+        //         path: '/develop/',
+        //         sidebarDepth: 2
+        //     },
+        //     {
+        //         title: '量化投资',
+        //         path: '/trade/',
+        //         sidebarDepth: 2
+        //     },
+        //     {
+        //         title: '机器人竞赛',
+        //         path: '/robot/',
+        //         sidebarDepth: 2
+        //     },
+        //     {
+        //         title: '常规资料',
+        //         path: '/common/',
+        //         sidebarDepth: 2
+        //     },
+        //     {
+        //         title: 'todo',
+        //         path: '/todo/',
+        //         sidebarDepth: 2
+        //     }
+        // ],
 
         lastUpdated: 'Last Updated'
     }

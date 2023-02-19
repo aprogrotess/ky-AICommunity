@@ -1,6 +1,4 @@
----
-sidebar: auto
----
+
 
 # 如何使用cmake
 
@@ -57,5 +55,4 @@ windows在编译环节上会有比较大的差异，需要自行判断
 - CXX模块化：
   - [CMAKE进行模块组织](./SimpleLib.md)
   - [cmake子模块间的相互调用](./SimpleLibInteract.md)
-
 
