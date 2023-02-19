@@ -1,9 +1,3 @@
----
-sidebar: auto
----
-
-
-
 # CMAKE的简单使用
 
 

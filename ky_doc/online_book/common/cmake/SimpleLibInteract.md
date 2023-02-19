@@ -1,9 +1,3 @@
----
-sidebar: auto
----
-
-
-
 # CXX子模块间的调用
 
 ::: danger
