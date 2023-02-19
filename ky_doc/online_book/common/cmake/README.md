@@ -54,4 +54,5 @@ windows在编译环节上会有比较大的差异，需要自行判断
 :::
 
 - [CMAKE简单使用](./SimpleUse.md)
+- [CMAKE进行模块组织](./SimpleLib.md)
 
