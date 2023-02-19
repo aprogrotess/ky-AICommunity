@@ -20,3 +20,5 @@ bin-release/
 *node_modules
 githubtoken.md
 *dist
+*cmake-build-debug
+*build
