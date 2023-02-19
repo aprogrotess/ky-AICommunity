@@ -4,7 +4,9 @@ sidebar: auto
 
 # 电子书编写指导
 
->  这本电子书是采用vuepress架构编写而成，因此需要遵守此框架的编写规范。
+> 这本电子书是采用vuepress架构编写而成，因此需要遵守此框架的编写规范。
+> 此框架编写的电子书可以参考的开源代码：
+>   - [vuepress-blog](https://kgithub.com/zzy-life/vuepress-Blog)
 
 
 
