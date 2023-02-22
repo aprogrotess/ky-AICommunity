@@ -51,8 +51,25 @@ windows在编译环节上会有比较大的差异，需要自行判断
 
 :::
 
-- [CMAKE简单使用](./SimpleUse.md)
-- CXX模块化：
-  - [CMAKE进行模块组织](./SimpleLib.md)
-  - [cmake子模块间的相互调用](./SimpleLibInteract.md)
+- CMAKE简单入门:
+  - [CMAKE简单使用](./SimpleUse.md)
 
+
+- CXX模块化:
+  - [CMAKE进行模块组织](./SimpleLib.md)
+  - [CMAKE子模块间的相互调用](./SimpleLibInteract.md)
+
+- CMAKE进行包发布:
+  - 静态库和动态库以及编译器
+  - 发布自己的静态库和动态库
+  - 发布CMAKE标准的静态库和动态库
+  - 链接常规的静态库和动态库
+  - 链接CMAKE标准的静态库和动态库
+- CMAKE组织三方到工程
+  - 三方库的Compile
+  - 编写FindXXX，补其三方库以及链接
+  - 组织opencv-cuda以及cuda到程序中
+- CMAKE的持续学习：
+  - 如何编写CMAKE的函数以及宏
+  - CMAKE自动编译三方库
+  - OPTION开关模块
