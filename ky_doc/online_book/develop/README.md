@@ -1,3 +1,7 @@
+---
+sidebarDepth: 3
+---
+
 ## 啥是软开
 
 ::: tip
