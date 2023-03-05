@@ -63,8 +63,8 @@ windows在编译环节上会有比较大的差异，需要自行判断
   - [静态库和动态库以及编译器](./LibSoCompile.md)
   - [发布自己的静态库和动态库](./SimpleLibInstall.md)
   - [发布CMAKE标准的静态库和动态库](./SimpleCmakeInstall.md)
-  - 链接常规的静态库和动态库
-  - 链接CMAKE标准的静态库和动态库
+  - [链接常规的静态库和动态库](./SimpleLink.md)
+  - [链接CMAKE标准的静态库和动态库](./SimpleCmakeLink.md)
 - CMAKE组织三方到工程
   - 三方库的Compile
   - 编写FindXXX，补其三方库以及链接
