@@ -66,7 +66,7 @@ windows在编译环节上会有比较大的差异，需要自行判断
   - [链接常规的静态库和动态库](./SimpleLink.md)
   - [链接CMAKE标准的静态库和动态库](./SimpleCmakeLink.md)
 - CMAKE组织三方到工程
-  - 三方库的Compile
+  - [三方库的Compile](./ThirdPartCompile.md)
   - 编写FindXXX，补其三方库以及链接
   - 组织opencv-cuda以及cuda到程序中
 - CMAKE的持续学习：
