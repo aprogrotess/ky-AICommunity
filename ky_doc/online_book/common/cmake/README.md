@@ -70,6 +70,6 @@ windows在编译环节上会有比较大的差异，需要自行判断
   - 编写FindXXX，补其三方库以及链接
   - 组织opencv-cuda以及cuda到程序中
 - CMAKE的持续学习：
-  - 如何编写CMAKE的函数以及宏
+  - [如何编写CMAKE的函数以及宏](./FuncAndMarco.md)
   - CMAKE自动编译三方库
   - OPTION开关模块
