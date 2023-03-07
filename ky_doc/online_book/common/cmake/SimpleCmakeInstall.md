@@ -1,5 +1,5 @@
 ---
-sidebarDepth: 3TARGETS
+sidebarDepth: 3
 ---
 
 
