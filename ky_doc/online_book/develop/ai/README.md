@@ -232,7 +232,7 @@ ai的论文成功复现百分比为20%左右，所以除非找到比较符合的
 
 ### Python Flask服务器
 
-```pyhon
+```python
 from flask import Flask
 
 # 1. 定义app
