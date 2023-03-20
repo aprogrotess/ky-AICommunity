@@ -116,7 +116,7 @@ sidebarDepth: 3
 
 ### AI大类需求实现
 
--  *AI需求处理Pipline
+-  *[AI需求处理Pipline](./ai/README.md)
 -  票房预测需求实现
 -  输液伴侣竞赛需求实现
 -  Arcus后台CV效率优化需求实现

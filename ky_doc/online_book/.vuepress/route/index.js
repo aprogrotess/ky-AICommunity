@@ -5,6 +5,7 @@
  */
 
 module.exports = {
+    '/develop/ai': require('./sub/aiRoute'),
     '/common/cmake': require('./sub/cmakeRoute'),
     '/': require('./sub/mainRoute')
 }
