@@ -108,7 +108,7 @@ sidebarDepth: 3
 
 ### 前后端的需求实现(狭义前后端)
 
-- *狭义前后端全栈Pipline
+- *[狭义前后端全栈Pipline](./web/README.md)
 - 微信小程序实现共享wifi
 - 云约订单需求实现
 - Arcus前端神经交互需求实现
