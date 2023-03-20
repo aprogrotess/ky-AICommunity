@@ -1,3 +1,6 @@
 [submodule "example/ImageProcessing100Wen"]
 	path = example/ImageProcessing100Wen
 	url = https://github.com/gzr2017/ImageProcessing100Wen.git
+[submodule "example/image-processing100-wen-learning"]
+	path = example/image-processing100-wen-learning
+	url = https://gitee.com/aprogrotess/image-processing100-wen-learning.git
