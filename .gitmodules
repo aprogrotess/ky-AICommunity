@@ -1,0 +1,3 @@
+[submodule "example/ImageProcessing100Wen"]
+	path = example/ImageProcessing100Wen
+	url = https://github.com/gzr2017/ImageProcessing100Wen.git
